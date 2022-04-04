@@ -1,27 +1,13 @@
-# Next.js + Tailwind CSS Example
+# 🐔 Napoleón 🐔
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Blog de noticias construido con Next js , [Tailwind CSS](https://tailwindcss.com/) y Typescript. El sitio permite mostrar contenido dinamico , toda vez que utiliza Sanity CMS para administrar su contenido.
+Para la publicación del proyecto utilicé [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example)
+
 
 ## Preview
+<img width="1428" alt="Captura de Pantalla 2022-04-03 a la(s) 22 59 12" src="https://user-images.githubusercontent.com/70720945/161462638-4cf8c82d-8e22-43e1-92d2-df48ed6daa69.png">
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+Aquí podrás ver el [DEPLOY](https://napoleon-delta.vercel.app)
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
