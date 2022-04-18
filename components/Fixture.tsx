@@ -5,17 +5,17 @@ const RIVALES = [
   {
     image: '/images/alianza.png',
     torneo: 'Por Copa Libertadores - Fase de grupos',
-    fecha: '02/04',
+    fecha: '1 - 0 ',
   },
   {
     image: '/images/argentinos.png',
     torneo: 'Por Liga Argentina - Jornada 9',
-    fecha: '10/04',
+    fecha: '4 - 2',
   },
   {
     image: '/images/fortaleza.png',
     torneo: 'Por Copa Libertadores - Fase de grupos',
-    fecha: '13/04',
+    fecha: '2 - 0 ',
   },
   {
     image: '/images/banfield.png',

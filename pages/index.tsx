@@ -28,7 +28,7 @@ export default function Home({ posts }: Props) {
       <div className=" lg:py-15 h-80 bg-[url('/images/hero.png')] bg-cover bg-center py-10 shadow-xl">
         <div className="mx-auto flex max-w-6xl justify-center p-5">
           <img
-            className=" w-52 cursor-pointer object-contain  "
+            className="  w-44  cursor-pointer object-contain  "
             src={'/images/libertadores.png'}
             alt=""
           />

@@ -11,7 +11,7 @@ export default function Footer() {
             <div className="flex items-center space-x-2 border-b-2 border-gray pb-2">
               <Link href="/">
                 <img
-                  className=" w-10 cursor-pointer object-contain"
+                  className=" w-9 cursor-pointer object-contain"
                   src={'/images/escudo.png'}
                   alt=""
                 />
@@ -35,7 +35,7 @@ export default function Footer() {
 
           <div className="flex items-center space-x-1.5">
             <div className="sm:flex sm:items-center sm:justify-between">
-              <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center">
+              <div className="mt-4 flex space-x-3 sm:mt-0 sm:justify-center">
             
                 <a
                   href="#"
